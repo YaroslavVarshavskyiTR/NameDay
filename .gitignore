@@ -1,0 +1,5 @@
+/.idea/
+NameDay.iml
+__pycache__/
+serviceAccountKey.json
+/config.py
